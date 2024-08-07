@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkDare_Oduwole=self.webpackChunkDare_Oduwole||[]).push([[361],{361:(e,a,t)=>{t.r(a),t.d(a,{default:()=>l});t(679);var r=t(692),u=t.n(r);const l=function(){u()(".project-wrapper__image a div").tilt({maxTilt:3})}}}]);
-//# sourceMappingURL=361.a32db14ad33065a7be42.js.map

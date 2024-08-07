@@ -35,6 +35,9 @@
   }
 
   .about-wrapper {
+    .skills-img {
+      margin: 6px;
+    }
     @include respond(phone) {
       padding-bottom: 5rem;
     }
@@ -52,12 +55,13 @@
       @include respond(tab-port-sm) {
         padding-bottom: 6.4rem;
       }
+
       .social_links {
         // display: flex;
         // justify-content: space-between;
         a {
           font-size: 18px;
-          padding: 20px;
+          padding: 15px;
           color: white;
 
           &:hover {
