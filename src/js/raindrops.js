@@ -1,5 +1,6 @@
+import $ from 'jquery';
+
 export default function makeItRain() {
-  //clear out everything
   $(".rain").empty();
 
   let increment = 0,

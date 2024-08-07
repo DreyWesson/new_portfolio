@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksimplefolio=self.webpackChunksimplefolio||[]).push([[361],{361:(e,i,l)=>{l.r(i),l.d(i,{default:()=>p});l(679);var t=l(692),a=l.n(t);const p=function(){a()(".project-wrapper__image a div").tilt({maxTilt:3})}}}]);
+//# sourceMappingURL=361.3c31ee10001020905bc5.js.map

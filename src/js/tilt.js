@@ -1,4 +1,5 @@
 import tilt from 'tilt.js';
+import $ from 'jquery';
 
 const initTilt = () => {
   // Projects images
