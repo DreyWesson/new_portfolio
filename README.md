@@ -4,6 +4,7 @@
 
 ```bash
 $ npm run build
+$ netlify build  
 $ netlify deploy --prod
 ```
 
