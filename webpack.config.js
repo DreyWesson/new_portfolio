@@ -53,6 +53,7 @@ module.exports = (env, argv) => {
     },
     plugins: [
       new CleanWebpackPlugin(),
+      new BundleAnalyzerPlugin(),
       new HtmlWebpackPlugin({
         template: "./src/index.html",
         filename: "index.html",
