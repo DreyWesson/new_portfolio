@@ -47,7 +47,7 @@ From your command line, first clone portfolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DreyWesson/my-portfolio
+$ git clone https://github.com/DreyWesson/new_portfolio
 
 # Go into the repository
 $ cd my-portfolio

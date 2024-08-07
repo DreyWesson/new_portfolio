@@ -1,5 +1,5 @@
 {
-  "name": "simplefolio",
+  "name": "Dare Oduwole",
   "version": "1.0.0",
   "description": "My portfolio!",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+http://dreywesson.github.io/newportfolio"
+    "url": "git+http://dreywesson.github.io/new_portfolio"
   },
   "keywords": [],
   "author": "Drey Wesson",
   "license": "ISC",
   "bugs": {
-    "url": "http://dreywesson.github.io/newportfolio"
+    "url": "http://dreywesson.github.io/new_portfolio"
   },
-  "homepage": "http://dreywesson.github.io/newportfolio",
+  "homepage": "https://dreywesson.netlify.app/",
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@babel/preset-env": "^7.25.3",
